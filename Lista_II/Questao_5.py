@@ -1,4 +1,11 @@
-# Faça um Programa que leia três números e mostre o maior e o menor deles.
+'''
+ Diêgo C. Oliveira
+ Tec. em Informática | IFPI
+ Programação para Web | Ritomar Torquato
+ Turma 386, Periodo 2017.1
+
+Faça um Programa que leia três números e mostre o maior e o menor deles.
+'''
 a = int(input('Primeiro nº: '))
 b = int(input('Segundo nº: '))
 c = int(input('Terceiro nº: '))
