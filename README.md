@@ -8,9 +8,8 @@
 
 ## Django
 
-### [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
-    https://tutorial.djangogirls.org/pt/
+### [Tutorial Django Girls](https://tutorial.djangogirls.org/pt)
+    https://tutorial.djangogirls.org/pt
 
-### [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
-    https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/
-"# 386-progweb2017.1" 
+### [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario)
+    https://www.udemy.com/python-3-na-web-com-django-basico-intermediario 
