@@ -8,4 +8,4 @@ Faça um programa que peça dois números inteiros e imprima a soma desses dois 
 '''
 n1 = int(input('Digite o 1º número: '))
 n2 = int(input('Digite o 2º número: '))
-print("Soma: %d"%(n1 + n2))
+print("\nSoma: %d"%(n1 + n2))
