@@ -18,13 +18,14 @@ texto = "The Python Software Foundation and the global Python" \
         "mutual respect, tolerance, and encouragement, and we are working to help each other live up" \
         "to these principles. We want our community to be more diverse: whoever you are, and" \
         "whatever your background, we welcome you."
-palavras_em_minusculo = texto.lower().split()
+palavras = texto.lower().split()
 palavras_com_python = []
-for x in range(len(palavras_em_minusculo)):
-    palavras_em_minusculo[x].replace('.','')
-    palavras_em_minusculo[x].replace(',', '')
-    if palavras_em_minusculo[x][:1] in 'python':
-        palavras_com_python.append(palavras_em_minusculo[x])
-    elif palavras_em_minusculo[x][-1:] in 'python':
-        palavras_com_python.append(palavras_em_minusculo[x])
+for x in range(len(palavras)):
+    palavras[x] = palavras[x].replace(':', '')
+    palavras[x] = palavras[x].replace(',', '')
+    palavras[x] = palavras[x].replace('.', '')
+    if palavras[x][:1] in 'python':
+        palavras_com_python.append(palavras[x])
+    elif palavras[x][-1:] in 'python':
+        palavras_com_python.append(palavras[x])
 print("Palavras com 'p,y,t,h,o,n':", palavras_com_python)
