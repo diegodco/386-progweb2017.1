@@ -1,4 +1,9 @@
 '''
+ Diêgo C. Oliveira
+ Tec. em Informática | IFPI
+ Programação para Web | Ritomar Torquato
+ Turma 386, Periodo 2017.1
+
 3. Faça um programa que crie dois vetores com 10 elementos aleatórios entre 1 e 100. Gere um terceiro vetor de
 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores. Imprima os três
 vetores.

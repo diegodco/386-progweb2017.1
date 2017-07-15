@@ -1,4 +1,9 @@
 '''
+ Diêgo C. Oliveira
+ Tec. em Informática | IFPI
+ Programação para Web | Ritomar Torquato
+ Turma 386, Periodo 2017.1
+
 4. Seja o statement sobre diversidade: “The Python Software Foundation and the global Python
 community welcome and encourage participation by everyone. Our community is based on
 mutual respect, tolerance, and encouragement, and we are working to help each other live up

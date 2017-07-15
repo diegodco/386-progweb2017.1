@@ -1,4 +1,9 @@
 '''
+ Diêgo C. Oliveira
+ Tec. em Informática | IFPI
+ Programação para Web | Ritomar Torquato
+ Turma 386, Periodo 2017.1
+
 2. Sorteie 20 inteiros entre 1 e 100 numa lista. Armazene os números pares na lista PAR e os números ímpares na lista
 IMPAR. Imprima as três listas.
 '''

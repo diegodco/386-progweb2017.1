@@ -1,4 +1,9 @@
 '''
+ Diêgo C. Oliveira
+ Tec. em Informática | IFPI
+ Programação para Web | Ritomar Torquato
+ Turma 386, Periodo 2017.1
+
 1. Sorteie 10 inteiros entre 1 e 100 para uma lista e descubra o maior e o menor valor, sem usar as funções max e min.
 '''
 from random import randint
